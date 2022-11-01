@@ -1,0 +1,28 @@
+body {
+  background-color: green;
+  color: #dddd;
+  font-family: Ariel , Helvitica, sans-serif;
+  margin: 10% 20%;
+  }
+.exp-personal {
+  text-transform: uppercase;
+  text-align: center;
+  border-bottom: 1px solid #dddd;
+  border-top: 1px solid #dddd;
+  background-color: rgba(0,0,0,.5)
+  }
+.exp-header{ 
+  text-transform: uppercase:
+  text-align: center; 
+  background-color: blue;
+}
+
+ul {
+  border-top: 1px solid #dddd;
+  border-bottom: 1px solid #dddd;
+  background-color: rgba(0,0,0,.5)
+}
+
+h5{
+  background-color: black;
+}
